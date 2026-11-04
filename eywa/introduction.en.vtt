@@ -1,0 +1,41 @@
+WEBVTT
+
+00:00.200 --> 00:05.920
+What is a CompanyOS? It's the operating system of a company run by people and AI agents.
+
+00:06.740 --> 00:12.240
+Companies used to run on documents and people, now AI agents do real work alongside them.
+
+00:13.200 --> 00:20.700
+In Microsoft's 2025 Work Trend Index, 46% of leaders say their companies are using agents to fully automate workflows.
+
+00:21.440 --> 00:27.800
+Think of it in layers. Agents and apps on top, workflows and connectors to every system in the middle,
+
+00:27.800 --> 00:32.640
+and at the base, one trusted, permissioned, current body of company knowledge.
+
+00:33.740 --> 00:38.000
+Cloudflare, Eragon and Wonderful are among those building layers like these.
+
+00:39.020 --> 00:43.760
+The weak point is the base. Facts go stale or conflict. Memory gets poisoned.
+
+00:44.200 --> 00:49.520
+OWASP lists that as a top risk for AI agents. Permissions must mirror the company and every
+
+00:49.520 --> 00:54.620
+change needs someone accountable. Much of what a company knows lives in people's heads,
+
+00:54.620 --> 01:00.980
+notes and inboxes, and in each AI agent's private memory. When someone leaves, or an agent is reset,
+
+01:01.320 --> 01:07.620
+it's gone. When two copies disagree, nobody knows which is right. Eywa gives it one secure,
+
+01:08.000 --> 01:13.820
+shared home. Each fact passes a validation gate, fingerprinted, checked, approved by a person.
+
+01:14.300 --> 01:21.120
+Then people and agents can cite it. Every CompanyOS needs a memory it can trust. Eywa is that memory.
+

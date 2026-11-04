@@ -1,11 +1,10 @@
-:HL["/_next/static/chunks/1lgb8bow93gl9.css","style"]
+:HL["/_next/static/chunks/23auct3k-f_tr.css","style"]
 :HL["/_next/static/media/Switzer_500-s.p.3l_u-a-fiviai.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/geist_latin-s.p.3rd3ws2mg35i0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/geist_mono_latin-s.p.3f30ggp2vw8zj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/chunks/17ht_4cuau84q.css","style"]
 :HL["/pyranthus-P2-ember.svg","image"]
-:HL["/eywa/values.png","image"]
-:HL["/eywa/actions.png","image"]
+:HL["/eywa/introduction-poster.jpg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"products","h":96,"c":"$Q2"}]]
-0:{"b":"F-SVAtu6NQYZKEYhu1ZWq","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"dbWuUiKhVWzZojnV1EG_C","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
