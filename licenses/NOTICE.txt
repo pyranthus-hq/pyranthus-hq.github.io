@@ -1,0 +1,13 @@
+Geist and Geist Mono: Copyright 2024 The Geist Project Authors.
+SIL Open Font License 1.1. See Geist-OFL.txt alongside this notice.
+
+Switzer: Copyright 2015–2021 Indian Type Foundry.
+Retained from the same owner's existing Pyranthus website.
+Subject to the applicable ITF / Fontshare terms, https://www.fontshare.com/licenses.
+It is not represented as open-source software.
+
+The original ember renderer credits stackedlol (drewdi),
+https://github.com/stackedlol/stacked-dither at commit
+2da616c6de3cb25ccd4bc3d1645b23bda36dc1fa, used with the author's OK
+according to the supplied original website source.
+This notice does not grant broader redistribution rights.

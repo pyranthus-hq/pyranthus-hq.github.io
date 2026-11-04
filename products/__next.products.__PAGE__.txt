@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/12iog7prox8u-.js"
+3:I[36852,["$2"],"default"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:"/_next/static/chunks/43823cdczvysy.js"
+7:I[22016,["$2","$6"],""]
+e:I[35570,["$2","$6"],"default"]
+16:"ViewportBoundary"
+17:I[97367,["$2"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$2"],"$18"]
+1a:"$Sreact.suspense"
+1b:I[27201,["$2"],"IconMark"]
+:HL["/_next/static/chunks/1lgb8bow93gl9.css","style"]
+:HL["/pyranthus-P2-ember.svg","image"]
+:HL["/eywa/values.png","image"]
+:HL["/eywa/actions.png","image"]
+9:X
+c:X
+c:C
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","children":[["$","div",null,{"className":"page-intro shell","children":[["$","p",null,{"className":"eyebrow","children":"Products"}],["$","h1",null,{"children":"Two products. Two specific jobs."}],["$","div",null,{"className":"intro-body","children":["$","p",null,{"children":"Mora keeps the corrections you approve. Eywa explores how teams can approve the information their agents use."}]}]]}],["$","section",null,{"className":"shell destination-section","children":["$","div",null,{"className":"destination-cards products-only","children":[["$","article",null,{"className":"destination-card","children":[["$","div",null,{"className":"destination-crop mora-crop","children":["$","$Le",null,{"loop":{"label":"Mora · illustration","caption":"An illustration of the loop, not a recording","pause":"Pause animation","play":"Play animation","stillBeat":1,"beats":[{"id":"lesson","title":"Your approval","session":"Agent session","ms":4200,"chip":{"status":"today","text":"Today"},"lines":[{"kind":"you","text":"Don’t chain cd. Run from the repo root."},{"kind":"agent","text":"I’ll save that as a lesson."}],"card":{"title":"Proposed lesson:","text":"run from the repo root, don’t chain `cd X && ...`","pending":"Waiting for your approval","saved":"Saved"},"after":[{"kind":"cmd","text":"mora mcp proposals approve p_mem_example"}]}]},"compact":true}]}],["$","div",null,{"className":"destination-copy","children":[["$","p",null,{"className":"small-note","children":"Open-source alpha"}],["$","h2",null,{"children":"Mora"}],["$","p",null,{"children":"Keep the corrections you approve, on your machine."}],["$","$L7",null,{"className":"text-link","href":"/products/mora/","children":["Explore Mora ",["$","span",null,{"aria-hidden":"true","className":"arrow","children":"↗"}]]}]]}]]}],["$","article",null,{"className":"destination-card","children":[["$","figure",null,{"className":"destination-crop eywa-crop","children":[["$","div",null,{"className":"approval-crops-small","children":[["$","img",null,{"src":"/eywa/values.png","width":"714","height":"92","alt":"Current week 2 and proposed week 6, awaiting a decision."}],["$","img",null,{"src":"/eywa/actions.png","width":"218","height":"36","alt":"Actual Reject and Approve controls from the prototype demo."}]]}],["$","figcaption",null,{"children":"Actual demo crops · Synthetic data"}]]}],["$","div",null,{"className":"destination-copy","children":[["$","p",null,{"className":"small-note","children":"Prototype"}],"$Lf","$L10","$L11"]}]]}],false]}]}]]}],["$L12","$L13"],"$L14"]}],"p":"$@15","v":null,"s":"$9"}}]]
+a:[["children",{"s":"products","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1lgb8bow93gl9.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/12iog7prox8u-.js","async":true}]],["$","html",null,{"lang":"en","className":"hL4kRG_variable wtcLsG_variable APw8lG_variable","children":["$","body",null,{"children":[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","main",null,{"id":"main","className":"shell page-intro","children":[["$","p",null,{"className":"eyebrow","children":"Page not found"}],["$","h1",null,{"children":["Let’s get you",["$","br",null,{}],"back to the work."]}],["$","p",null,{"className":"intro-body","children":"This address doesn’t have a page."}],["$","$L7",null,{"className":"button primary","href":"/","children":"Pyranthus home ↗"}]]}],[]]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"shell","children":[["$","div",null,{"className":"footer-top","children":[["$","$L7",null,{"className":"brand","href":"/","children":[["$","img",null,{"src":"/pyranthus-P2-ember.svg","width":"28","height":"28","alt":""}],"Pyranthus"]}],["$","p",null,{"children":["AI is the fire.",["$","br",null,{}],"The work is making it useful."]}],["$","div",null,{"children":[["$","a",null,{"href":"mailto:adit@pyranthus.com","children":"adit@pyranthus.com ↗"}],["$","$L7",null,{"href":"/contact/","children":"Talk to us ↗"}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":["© ",2026," Pyranthus · A service of AdiSam Consulting LLC"]}],["$","div",null,{"children":[["$","$L7",null,{"href":"/products/mora/","children":"Mora"}],["$","$L7",null,{"href":"/products/eywa/","children":"Eywa"}],["$","$L7",null,{"href":"/privacy/","children":"Privacy"}],["$","a",null,{"href":"https://github.com/pyranthus-hq","target":"_blank","rel":"noreferrer","children":"GitHub ↗"}]]}]]}]]}]}]]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10110f"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Products | Pyranthus"}],["$","meta","1",{"name":"description","content":"Mora keeps approved notes on your machine. Eywa explores human approval for the information agents use."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"Pyranthus | AI tools for real work"}],["$","meta","4",{"property":"og:description","content":"Advisory. Engineering. Products. AI built around your business."}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"Pyranthus | AI tools for real work"}],["$","meta","8",{"name":"twitter:description","content":"Advisory. Engineering. Products. AI built around your business."}],["$","link","9",{"rel":"icon","href":"/icon.svg?icon.0gcv9bt5g5lt3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1b","10",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$9"}},"a":"$@1d","u":"$@1e","b":"F-SVAtu6NQYZKEYhu1ZWq"}
+1f:I[97367,["$2"],"OutletBoundary"]
+:HL["/_next/static/chunks/17ht_4cuau84q.css","style"]
+f:["$","h2",null,{"children":"Eywa"}]
+10:["$","p",null,{"children":"Agents propose a change. A person decides what is approved."}]
+11:["$","$L7",null,{"className":"text-link","href":"/products/eywa/","children":["Explore Eywa ",["$","span",null,{"aria-hidden":"true","className":"arrow","children":"↗"}]]}]
+12:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/17ht_4cuau84q.css","precedence":"next"}]
+13:["$","script","script-0",{"src":"/_next/static/chunks/43823cdczvysy.js","async":true}]
+14:["$","$L1f",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+9:300
+20:null
+1e:true
+9:C
+1d:0
+b:"$undefined"
+8:"$undefined"
+1c:"$undefined"
+15:"$undefined"

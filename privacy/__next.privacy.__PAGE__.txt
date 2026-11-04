@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/12iog7prox8u-.js"
+3:I[36852,["$2"],"default"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:"/_next/static/chunks/43823cdczvysy.js"
+7:I[22016,["$2","$6"],""]
+e:I[97367,["$2"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$2"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$2"],"$14"]
+16:I[27201,["$2"],"IconMark"]
+:HL["/_next/static/chunks/1lgb8bow93gl9.css","style"]
+:HL["/pyranthus-P2-ember.svg","image"]
+:HL["/_next/static/chunks/17ht_4cuau84q.css","style"]
+9:X
+c:X
+c:C
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","children":[["$","div",null,{"className":"page-intro shell","children":[["$","p",null,{"className":"eyebrow","children":"Privacy"}],["$","h1",null,{"children":"A simple review website."}],["$","div",null,{"className":"intro-body","children":["$","p",null,{"children":"This site introduces Pyranthus, its offerings and its products."}]}]]}],["$","article",null,{"className":"shell prose section","children":[["$","h2",null,{"children":"Contact drafts"}],["$","p",null,{"children":"The contact composer keeps your input in the current browser page. It does not send or save a form submission to a server. The email link opens your chosen email application; your email provider handles the message when you send it."}],["$","h2",null,{"children":"External services"}],["$","p",null,{"children":"Links to GitHub, Tally and research sources open third-party services governed by their own policies. The site includes no embedded analytics, ad tracking or third-party booking scripts."}],["$","h2",null,{"children":"Hosting and local media"}],["$","p",null,{"children":"The hosting provider may process routine technical request information. Fonts and the selected Eywa prototype crop are served with the website. Demonstration data is synthetic."}],["$","h2",null,{"children":"Questions"}],["$","p",null,{"children":["Email ",["$","a",null,{"href":"mailto:adit@pyranthus.com","children":"adit@pyranthus.com"}],"."]}]]}]]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/17ht_4cuau84q.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/43823cdczvysy.js","async":true}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$9"}}]]
+a:[["children",{"s":"privacy","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1lgb8bow93gl9.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/12iog7prox8u-.js","async":true}]],["$","html",null,{"lang":"en","className":"hL4kRG_variable wtcLsG_variable APw8lG_variable","children":["$","body",null,{"children":[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","main",null,{"id":"main","className":"shell page-intro","children":[["$","p",null,{"className":"eyebrow","children":"Page not found"}],["$","h1",null,{"children":["Let’s get you",["$","br",null,{}],"back to the work."]}],["$","p",null,{"className":"intro-body","children":"This address doesn’t have a page."}],["$","$L7",null,{"className":"button primary","href":"/","children":"Pyranthus home ↗"}]]}],[]]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"shell","children":[["$","div",null,{"className":"footer-top","children":[["$","$L7",null,{"className":"brand","href":"/","children":[["$","img",null,{"src":"/pyranthus-P2-ember.svg","width":"28","height":"28","alt":""}],"Pyranthus"]}],["$","p",null,{"children":["AI is the fire.",["$","br",null,{}],"The work is making it useful."]}],["$","div",null,{"children":[["$","a",null,{"href":"mailto:adit@pyranthus.com","children":"adit@pyranthus.com ↗"}],["$","$L7",null,{"href":"/contact/","children":"Talk to us ↗"}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":["© ",2026," Pyranthus · A service of AdiSam Consulting LLC"]}],["$","div",null,{"children":[["$","$L7",null,{"href":"/products/mora/","children":"Mora"}],["$","$L7",null,{"href":"/products/eywa/","children":"Eywa"}],["$","$L7",null,{"href":"/privacy/","children":"Privacy"}],["$","a",null,{"href":"https://github.com/pyranthus-hq","target":"_blank","rel":"noreferrer","children":"GitHub ↗"}]]}]]}]]}]}]]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10110f"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy | Pyranthus"}],["$","meta","1",{"name":"description","content":"Pyranthus builds Mora and Eywa, and provides hands-on AI integration for mid-sized organisations."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"Pyranthus | AI tools for real work"}],["$","meta","4",{"property":"og:description","content":"Advisory. Engineering. Products. AI built around your business."}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"Pyranthus | AI tools for real work"}],["$","meta","8",{"name":"twitter:description","content":"Advisory. Engineering. Products. AI built around your business."}],["$","link","9",{"rel":"icon","href":"/icon.svg?icon.0gcv9bt5g5lt3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L16","10",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$9"}},"a":"$@18","u":"$@19","b":"F-SVAtu6NQYZKEYhu1ZWq"}
+10:null
+9:300
+19:true
+9:C
+18:0
+b:"$undefined"
+8:"$undefined"
+17:"$undefined"
+11:"$undefined"
